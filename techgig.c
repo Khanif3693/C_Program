@@ -93,3 +93,4 @@ int main() {
  in second iteration input string will be abde (without c) so in this case n=4 so 2nd element is our element. and so on.
  
  therefore output will be cbdae.
+ */
